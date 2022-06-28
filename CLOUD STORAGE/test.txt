@@ -1,0 +1,7 @@
+Creating a Dropbox app
+1	Configure app settings
+Name your app and choose initial settings.
+2	Select access scopes
+Choose the access scopes, or specific permissions, that your app needs to interact with Dropbox. We recommend starting small and adding more permissions later if you need them. Get started
+3	Add branding
+Give your users important information about your Dropbox app. Should comply with the Dropbox developer branding guide. Get started
